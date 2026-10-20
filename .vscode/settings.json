@@ -1,0 +1,9 @@
+{
+    
+  "python.analysis.enabled": false,
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportUndefinedVariable": "none"
+  },
+  "python.linting.enabled": false
+}
